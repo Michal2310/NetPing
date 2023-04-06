@@ -26,4 +26,4 @@ Contributions are always welcome! Please submit a pull request or open an issue 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.notion.so/LICENSE) file for details.
+This project is licensed under the MIT License
